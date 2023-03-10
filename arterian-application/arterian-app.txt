@@ -1,9 +1,10 @@
 Hello!
 
-I think there is an issue with the Arterian application  - the answers listed under the questions in the email do not match up with the questions I was asked on the form, and I believe I was denied volunteership outright due to this discrepancy :( 
+I think there is an issue with the Arterian application  - the answers listed under the questions in the automated email response do not match up with the questions I was asked on the form, and I believe I was denied volunteership outright due to this discrepancy :( 
 
-Please reconsider my application;  I have included the answers to the questions I was asked on the form below, and also attached a volunteer resume. An online copy of my resume can be found here (https://github.com/rebeccajr/burning-man-2023/blob/master/arterian-application/2023-volunteer-resume-rashkin.pdf)
+Please reconsider my application;  I have included the answers to the questions I was asked on the form below, and also attached a volunteer resume. An online copy of my resume can be found here (https://github.com/rebeccajr/burning-man-2023/blob/master/arterian-application/2023-volunteer-resume-rashkin.pdf)
 
+Please forward this message and attachment to the appropriate Artery coordinator.
 ___________________________________________________________________________
 What is your name (first and last)?
 
@@ -139,6 +140,7 @@ I promise to do my best to attend all meetings and will only skip them when I ab
 How many shifts are you available to commit to for 2023?
 
 4-5
+
 ---
 What talents can you offer the ARTery?
 
@@ -162,6 +164,7 @@ Just for fun - what is your favorite BRC art piece of all time?
 Shogyo Mujo)
 
 ___________________________________________________________________________
+
 
 Kindest regards, 
 ninja bunny
