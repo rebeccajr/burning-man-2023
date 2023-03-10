@@ -2,7 +2,7 @@ Hello!
 
 I think there is an issue with the Arterian application  - the answers listed under the questions in the email do not match up with the questions I was asked on the form, and I believe I was denied volunteership outright due to this discrepancy :( 
 
-Please reconsider my application;  I have included the answers to the questions I was asked on the form below, and also attached a volunteer resume:
+Please reconsider my application;  I have included the answers to the questions I was asked on the form below, and also attached a volunteer resume. An online copy of my resume can be found here (https://github.com/rebeccajr/burning-man-2023/blob/master/arterian-application/2023-volunteer-resume-rashkin.pdf)
 
 ___________________________________________________________________________
 What is your name (first and last)?
